@@ -1,2 +1,9 @@
 # PWEB
-Developed for the Programação Web course, featuring RESTful APIs, authentication, and a responsive frontend. Emphasis on clean architecture, asynchronous operations, and modular code organization.
+
+This is a **school project** for academic purposes.  
+
+---
+
+## 👥 Team
+- [Gonçalo Almeida](https://github.com/GAlmeida150815)  
+- [Simão Serrano]() //TODO LINK
